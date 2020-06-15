@@ -1,5 +1,4 @@
 # UbiSoftCoreApiScores
-# UbiSoftCoreApiScores
 
 This service is a simple API for receive, store and retrieve user scores for games.
 
